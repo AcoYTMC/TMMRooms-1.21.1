@@ -7,6 +7,9 @@
      "authors": [
           "AcoYT"
      ],
+     "contact": {
+          "sources": "https://github.com/AcoYTMC/TMMRooms-1.21.1"
+     },
      "license": "MIT License",
      "icon": "assets/tmmrooms/icon.png",
      "environment": "*",
